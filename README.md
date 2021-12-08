@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melon-ali" alt="melon-ali" /></a> </p>
 
 - 📫 How to reach me **melonali200@gmail.com**
+- 💡 I’m currently learning JavaScript & React.
+- 🤍 I’m from Chapai, Rajshahi, Bangladesh.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
