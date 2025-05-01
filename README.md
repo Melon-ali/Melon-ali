@@ -38,7 +38,7 @@
   
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Lissy93/file-icon-vectors/master/subset/svg/mongoose.svg" alt="mongoose" width="40" height="40"/> </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mongoose.svg" alt="mongoose" width="40" height="40"/> </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="prisma" width="40" height="40"/> </a>
   
   <!-- Tools -->
@@ -49,5 +49,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melon-ali&show_icons=true&locale=en&layout=compact&theme=radical" alt="melon-ali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melon-ali&show_icons=true&locale=en&theme=radical" alt="melon-ali" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melon-ali&theme=radical" alt="melon-ali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melon-ali&" alt="melon-ali" /></p>
