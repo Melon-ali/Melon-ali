@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melon-ali" alt="melon-ali" /></a> </p>
 
 - 🌱 I'm currently learning ** Advanced Next.js, Prisma ORM & Postgresql **
-- 👨‍💻 All of my projects are available at [My Portfolio](https://nextjs-portfolio-beta-murex.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://next-portfolio-eight-dun.vercel.app/)
 - 💬 Ask me about **MERN Stack, TypeScript, or State Management**
 - 📫 How to reach me **melonali200@gmail.com**
 - ⚡ Fun fact **I love creating pixel-perfect, high-performance web applications**
